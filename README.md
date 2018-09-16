@@ -1,4 +1,5 @@
 # wt-chat
+<<<<<<< HEAD
 
 > a simple chat application
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+A Vue.js and Firebase Chat Application
+>>>>>>> 147569a61aa63f7de996d0e2225aa30bb90a44a2
