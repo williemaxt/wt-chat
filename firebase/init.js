@@ -3,12 +3,12 @@ import firestore from 'firebase/firestore'
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDaLCEsIDZwSwXzq-WYq0ozJ7btuJ0I4qU",
+  apiKey: "your api key here",
   authDomain: "wt-chat.firebaseapp.com",
   databaseURL: "https://wt-chat.firebaseio.com",
   projectId: "wt-chat",
   storageBucket: "wt-chat.appspot.com",
-  messagingSenderId: "720090172939"
+  messagingSenderId: "some id"
 };
 
 firebase.initializeApp(config);
